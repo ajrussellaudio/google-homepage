@@ -62,6 +62,7 @@ a:hover {
 #main li:hover {
 	border: solid 1px #bbb;
 	border-bottom: solid 2px #bbb;
+	cursor: default;
 }
 
 #services {
@@ -70,6 +71,7 @@ a:hover {
 	height: 60px;
 	width: 100%;
 	display: block;
+	clear: both;
 }
 
 #services ul {
